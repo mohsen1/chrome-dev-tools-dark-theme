@@ -16,3 +16,9 @@ Replace the `Custom.css` file in your `"User Stylesheets"` folder. Here is how t
 * PC: `C:UsersYourUsernameAppDataLocalGoogleChromeUser DataDefaultUser StyleSheetsCustom.css`
 
 * Ubuntu (Chromium): `~/.config/chromium/Default/User StyleSheets/Custom.css`
+
+Screenshots
+
+![DOM](http://i.imgur.com/RZ1bq.png "DOM")
+
+![JS](http://i.imgur.com/XLLYF.png "JS")
