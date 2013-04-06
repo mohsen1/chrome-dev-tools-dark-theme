@@ -21,7 +21,7 @@
 }
 
 /* Change main  background color and color to prevent harsh black and white */
-#main {
+#-webkit-web-inspector #main {
   background-color: #E9DCDC;
   color: #EEE;
 }
