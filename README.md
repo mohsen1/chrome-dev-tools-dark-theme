@@ -1,4 +1,4 @@
-Chrome-Dev-tools-dark-theme
+Chrome Devtools dark theme
 ===========================
 
 Using CSS filter `invert` function I was able to make a really quick "dark theme" for Chrome dev tools.
